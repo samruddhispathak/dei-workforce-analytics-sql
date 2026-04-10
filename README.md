@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=DEI%20Workforce%20Analytics&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=40&desc=SQL%20Project%20%7C%20Diversity%2C%20Equity%20%26%20Inclusion&descAlignY=62&descSize=16" width="100%"/>
-
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![DataCamp](https://img.shields.io/badge/DataCamp-DataLab-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)]()
 [![Status](https://img.shields.io/badge/Status-Completed-A855F7?style=for-the-badge)]()
